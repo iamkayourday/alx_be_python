@@ -18,3 +18,9 @@ print(f"Multiplication of {number1} and {number2} is {product}")
 # Perform Division
 division = number1 / number2
 print(f"Division of {number1} by {number2} is {division}")
+
+
+# Output: # Addition of 10 and 5 is 15
+          # Subtraction of 10 and 5 is 5
+          # Multiplication of 10 and 5 is 50
+          # Division of 10 by 5 is 2.0
