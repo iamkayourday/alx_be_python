@@ -28,6 +28,7 @@ To get comfortable with basic Python syntax, arithmetic operations, and user inp
 alx_be_python/
 │
 ├── python_introduction/
+|   ├── basic_operations.py
 │   ├── simple_interest.py
 │   ├── rectangle_area.py
 │   ├── hours_to_seconds.py
