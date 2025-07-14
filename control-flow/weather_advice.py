@@ -5,7 +5,6 @@ weather = input("What's the weather like today? (sunny/rainy/cold): ").strip().l
 
 # Conditional statements to provide advice based on weather input
 if weather == "sunny":
-    print("It's a beautiful day! Don't forget to stay hydrated.")
     print("Wear a t-shirt and sunglasses.")
 elif weather == "rainy":
     print("Don't forget your umbrella and a raincoat.")
